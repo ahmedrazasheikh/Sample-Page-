@@ -1,0 +1,30 @@
+.navbar-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .navbar-container img {
+    width: 50px;
+    height: 50px;
+  }
+  
+  .navbar-container nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  
+  .navbar-container nav a {
+    color: #000;
+    text-decoration: none;
+    margin: 10px;
+  }
+  
+  .navbar-container nav button {
+    background-color: #7638b5;
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  

@@ -1,0 +1,7 @@
+.bg-image-wrap{
+    position: relative;
+    /* top: -40px; */
+    z-index: -10;
+    background-image: url('../../Images/footer-bg.png'); /* Replace 'path-to-your-image.jpg' with the actual path to your image */
+    background-size: cover; /* Adjust the size of the background image to cover the entire div */
+}
